@@ -1,0 +1,11 @@
+-e svn+svn://svn.code.sf.net/p/restblog/code/trunk#egg=restblog
+cheesecake
+mako
+paramiko
+pexpect
+pycabehtml
+pylint
+pymetrics
+scp
+setuptools
+versio
