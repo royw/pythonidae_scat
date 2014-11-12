@@ -1,7 +1,7 @@
-# coding=utf-8
-
 Why Python Virtual Environments Aren't
 ======================================
+
+11/13/2014
 
 This is because python's virtual environments are not real virtual environments.  They copy the binary executables but
 not the python environment.  Here's what I mean::
@@ -81,3 +81,5 @@ may need to be reinstalled.  YMMV
 
 So when your virtualenv and/or python app(s) break after a package upgrade (ex: ***apt-get dist-upgrade***), it may
 be time to cleanup the pythonidae scat!
+
+.. include:: ../copyright.rst
