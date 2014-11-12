@@ -82,4 +82,4 @@ may need to be reinstalled.  YMMV
 So when your virtualenv and/or python app(s) break after a package upgrade (ex: ***apt-get dist-upgrade***), it may
 be time to cleanup the pythonidae scat!
 
-.. include:: ../copyright.rst
+.. include:: copyright.rst
