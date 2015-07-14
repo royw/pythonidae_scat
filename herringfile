@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Python Articles
 
@@ -23,12 +24,14 @@ Add the following to your *requirements.txt* files:
 
 """
 import os
+# noinspection PyUnresolvedReferences
 import re
 from pprint import pformat
 from sys import version, path
 
 # noinspection PyUnresolvedReferences
 from herring.herring_app import task, namespace, HerringFile, task_execute, verbose_mode, debug_mode
+# noinspection PyUnresolvedReferences
 from herringlib.simple_logger import info, Logger, debug
 
 # noinspection PyUnresolvedReferences
