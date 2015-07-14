@@ -1,0 +1,8 @@
+include *.rst
+include *.txt
+include MANIFEST.in
+recursive-include pythonidae_scat *.txt
+recursive-include pythonidae_scat *.js
+recursive-include pythonidae_scat *.html
+recursive-include pythonidae_scat *.css
+recursive-include tests *

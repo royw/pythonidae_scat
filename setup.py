@@ -74,7 +74,8 @@ setup(
     install_requires=[
         # "argparse",
         # "mako"
-        # "Foo >= 1.2.3"
+        # "Foo >= 1.2.3",
+        'fullmonty',
     ],
     entry_points={
         'console_scripts': ['pythonidae_scat = pythonidae_scat.pythonidae_scat_main:main']

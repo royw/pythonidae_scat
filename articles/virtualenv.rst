@@ -1,7 +1,7 @@
 Why Python Virtual Environments Aren't
 ======================================
 
-11/13/2014
+13 November 2014
 
 This is because python's virtual environments are not real virtual environments.  They copy the binary executables but
 not the python environment.  Here's what I mean::
